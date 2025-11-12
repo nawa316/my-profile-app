@@ -63,7 +63,7 @@ class ProfilePage extends StatelessWidget {
                         const SizedBox(height: 12),
                         const Text('Muhammad Ade Dzakwan', style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.w700)),
                         const SizedBox(height: 4),
-                        const Text('Fullstack Developer | Software Engineer', style: TextStyle(color: Color.fromRGBO(255,255,255,0.9), fontSize: 14)),
+                        const Text('Fullstack Developer | 5026231154', style: TextStyle(color: Color.fromRGBO(255,255,255,0.9), fontSize: 14)),
                       ],
                     ),
                   ),
@@ -106,7 +106,7 @@ class ProfilePage extends StatelessWidget {
                 children: [
                   _statItem(Icons.group, 'Work Experience', '1+ Year', Colors.orange),
                   const SizedBox(width: 12),
-                  _statItem(Icons.my_library_books, 'GPA', '3.50/4.00', Colors.green),
+                  _statItem(Icons.my_library_books, 'GPA', '3.64/4.00', Colors.green),
                   const SizedBox(width: 12),
                   _statItem(Icons.work_outline, 'Projects', '10+', Colors.blue),
                 ],
